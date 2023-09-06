@@ -1,0 +1,11 @@
+/*
+             A          K         K
+            A A         K       K
+           A   A        K     K
+          A     A       K   K
+         A       A      K K
+        AAAAAAAAAAA     K   K
+       A           A    K     K
+      A             A   K       K
+     A               A  K         K
+*/
