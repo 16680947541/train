@@ -1,0 +1,16 @@
+2023-09-07 15:51:19.798 INFO  com.jiawa.train.member.config.MemberApplication   :51   [32m                  [0;39m Starting MemberApplication using Java 17.0.6 with PID 19384 (D:\zihui\Code\train-12306\train\member\target\classes started by zihui in D:\zihui\Code\train-12306\train)
+2023-09-07 15:51:19.802 INFO  com.jiawa.train.member.config.MemberApplication   :634  [32m                  [0;39m No active profile set, falling back to 1 default profile: "default"
+2023-09-07 15:51:20.934 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :108  [32m                  [0;39m Tomcat initialized with port(s): 8001 (http)
+2023-09-07 15:51:20.935 INFO  org.apache.catalina.core.AprLifecycleListener     :173  [32m                  [0;39m An older version [1.2.36] of the Apache Tomcat Native library is installed, while Tomcat recommends a minimum version of [2.0.5]
+2023-09-07 15:51:20.936 INFO  org.apache.catalina.core.AprLifecycleListener     :173  [32m                  [0;39m Loaded Apache Tomcat Native library [1.2.36] using APR version [1.7.2].
+2023-09-07 15:51:20.939 INFO  org.apache.catalina.core.AprLifecycleListener     :173  [32m                  [0;39m OpenSSL successfully initialized [OpenSSL 1.1.1t  7 Feb 2023]
+2023-09-07 15:51:20.950 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Initializing ProtocolHandler ["http-nio-8001"]
+2023-09-07 15:51:20.953 INFO  org.apache.catalina.core.StandardService          :173  [32m                  [0;39m Starting service [Tomcat]
+2023-09-07 15:51:20.953 INFO  org.apache.catalina.core.StandardEngine           :173  [32m                  [0;39m Starting Servlet engine: [Apache Tomcat/10.1.12]
+2023-09-07 15:51:21.078 INFO  o.a.c.c.C.[Tomcat].[localhost].[/member]          :173  [32m                  [0;39m Initializing Spring embedded WebApplicationContext
+2023-09-07 15:51:21.079 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext    :291  [32m                  [0;39m Root WebApplicationContext: initialization completed in 1224 ms
+2023-09-07 15:51:21.442 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Starting ProtocolHandler ["http-nio-8001"]
+2023-09-07 15:51:21.466 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :220  [32m                  [0;39m Tomcat started on port(s): 8001 (http) with context path '/member'
+2023-09-07 15:51:21.474 INFO  com.jiawa.train.member.config.MemberApplication   :57   [32m                  [0;39m Started MemberApplication in 2.321 seconds (process running for 5.321)
+2023-09-07 15:51:21.478 INFO  com.jiawa.train.member.config.MemberApplication   :27   [32m                  [0;39m 启动成功 !! 
+2023-09-07 15:51:21.478 INFO  com.jiawa.train.member.config.MemberApplication   :28   [32m                  [0;39m 地址 : 	http://127.0.0.1:8001
